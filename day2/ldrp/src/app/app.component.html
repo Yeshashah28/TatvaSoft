@@ -1,0 +1,18 @@
+<!-- interpolation -->
+<h1>{{title}}</h1>
+
+<!-- property binding -->
+ <img [src]="imageurl" alt="image not available"><br><br>
+
+ <!-- static binding -->
+  <button (click)="clickme()">submit</button><br><br>
+
+  <!-- two way binding -->
+<input type="text" [(ngModel)]='name'/><br><br>
+<span>hello {{name}}</span>
+
+<ol>
+  <li *ngFor="let item of items">{{item}}</li>
+</ol>
+
+<router-outlet></router-outlet>
