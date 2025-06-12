@@ -30,6 +30,3 @@ The **Virtual Community Support Platform** connects individuals in a virtual com
   - Deadline
   - Associated image or document
 - Users can express interest, and admins can assign or track participation.
-
-
-Built using **Angular**, **ASP.NET Core Web API**, and **PostgreSQL** to demonstrate proficiency in full-stack development, API integration, and database management.
