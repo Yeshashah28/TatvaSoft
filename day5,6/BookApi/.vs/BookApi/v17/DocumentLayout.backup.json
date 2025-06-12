@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TatvaSoft\\day5,6\\BookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\models\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|d:\\tatvasoft\\day5,6\\bookapi\\bookapi\\migrations\\20250603074624__updateusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CFF2E0-2510-4A49-992E-2FCB8BB1259C}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\migrations\\20250603074624__updateusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250603074624__UpdateUserTable.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Migrations\\20250603074624__UpdateUserTable.cs",
+              "RelativeDocumentMoniker": "BookApi\\Migrations\\20250603074624__UpdateUserTable.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Migrations\\20250603074624__UpdateUserTable.cs",
+              "RelativeToolTip": "BookApi\\Migrations\\20250603074624__UpdateUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:46:24.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\BookDetails.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\BookDetails.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\BookDetails.cs",
+              "RelativeToolTip": "BookApi\\Models\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:21:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRequest.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\BookRequest.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\BookRequest.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\BookRequest.cs",
+              "RelativeToolTip": "BookApi\\Models\\BookRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:05:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\User.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Models\\User.cs",
+              "RelativeToolTip": "BookApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:39:49.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowD4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:38:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:37:54.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookApi\\Program.cs",
+              "ToolTip": "D:\\TatvaSoft\\day5,6\\BookApi\\BookApi\\Program.cs",
+              "RelativeToolTip": "BookApi\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:48:51.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

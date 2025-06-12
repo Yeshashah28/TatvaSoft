@@ -108,3 +108,11 @@ D:\TatvaSoft\day4\BookManager\BookManager\obj\Debug\net8.0\refint\BookManager.dl
 D:\TatvaSoft\day4\BookManager\BookManager\obj\Debug\net8.0\BookManager.pdb
 D:\TatvaSoft\day4\BookManager\BookManager\obj\Debug\net8.0\BookManager.genruntimeconfig.cache
 D:\TatvaSoft\day4\BookManager\BookManager\obj\Debug\net8.0\ref\BookManager.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TatvaSoft\day4\BookManager\BookManager\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mission_tatvasoft\\MissionBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\repositories\\missionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\repositories\\missionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\services\\missionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\services\\missionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\interfaces\\imissionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\interfaces\\imissionapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\interfaces\\imissionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\interfaces\\imissionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\dto\\missionapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\dto\\missionapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\controllers\\clientsidemissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\controllers\\clientsidemissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\services\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\services\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\interfaces\\imissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\interfaces\\imissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\interfaces\\imissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\interfaces\\imissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\models\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\models\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\repositories\\missionskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\repositories\\missionskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\dto\\applymissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\dto\\applymissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|d:\\mission_tatvasoft\\missionbackend\\missionbackend\\migrations\\20250610153908_updateinitial7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458802EA-0C9C-476E-9F1A-3E1F9179FF26}|MissionBackend\\MissionBackend.csproj|solutionrelative:missionbackend\\migrations\\20250610153908_updateinitial7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MissionBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:46:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Dto\\RegisterDto.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "MissionBackend\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:44:21.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Repositories\\MissionRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Repositories\\MissionRepository.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAlwHwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:00:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMissionApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionApplicationRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Interfaces\\IMissionApplicationRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionApplicationRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Interfaces\\IMissionApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:20:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionApplicationService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\MissionApplicationService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Services\\MissionApplicationService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\MissionApplicationService.cs",
+              "RelativeToolTip": "MissionBackend\\Services\\MissionApplicationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:39:31.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MissionBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:00:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionApplicationController.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\MissionApplicationController.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Controllers\\MissionApplicationController.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\MissionApplicationController.cs",
+              "RelativeToolTip": "MissionBackend\\Controllers\\MissionApplicationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:20:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionApplicationRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Repositories\\MissionApplicationRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionApplicationRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Repositories\\MissionApplicationRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:26:48.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMissionApplicationService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionApplicationService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Interfaces\\IMissionApplicationService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionApplicationService.cs",
+              "RelativeToolTip": "MissionBackend\\Interfaces\\IMissionApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:17:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "MissionBackend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:45:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:00:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Services\\UserService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "MissionBackend\\Services\\UserService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:09:53.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MissionApplicationDto.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\MissionApplicationDto.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Dto\\MissionApplicationDto.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\MissionApplicationDto.cs",
+              "RelativeToolTip": "MissionBackend\\Dto\\MissionApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:33:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientSideMissionController.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\ClientSideMissionController.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Controllers\\ClientSideMissionController.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Controllers\\ClientSideMissionController.cs",
+              "RelativeToolTip": "MissionBackend\\Controllers\\ClientSideMissionController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:00:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MissionService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\MissionService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Services\\MissionService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Services\\MissionService.cs",
+              "RelativeToolTip": "MissionBackend\\Services\\MissionService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:43:32.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMissionService.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionService.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Interfaces\\IMissionService.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionService.cs",
+              "RelativeToolTip": "MissionBackend\\Interfaces\\IMissionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:44:49.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMissionRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Interfaces\\IMissionRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Interfaces\\IMissionRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Interfaces\\IMissionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:45:40.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250610153908_UpdateInitial7.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Migrations\\20250610153908_UpdateInitial7.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Migrations\\20250610153908_UpdateInitial7.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Migrations\\20250610153908_UpdateInitial7.cs",
+              "RelativeToolTip": "MissionBackend\\Migrations\\20250610153908_UpdateInitial7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:39:08.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MissionApplication.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Models\\MissionApplication.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Models\\MissionApplication.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Models\\MissionApplication.cs",
+              "RelativeToolTip": "MissionBackend\\Models\\MissionApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:49:04.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MissionSkillRepository.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionSkillRepository.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Repositories\\MissionSkillRepository.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Repositories\\MissionSkillRepository.cs",
+              "RelativeToolTip": "MissionBackend\\Repositories\\MissionSkillRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:29:37.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Program.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Program.cs",
+              "RelativeToolTip": "MissionBackend\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:01:23.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplyMissionRequest.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\ApplyMissionRequest.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Dto\\ApplyMissionRequest.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Dto\\ApplyMissionRequest.cs",
+              "RelativeToolTip": "MissionBackend\\Dto\\ApplyMissionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:40:16.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MissionBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Mission_tatvasoft\\MissionBackend\\MissionBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MissionBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:58:51.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
