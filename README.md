@@ -6,6 +6,30 @@
 
 A full-stack web application developed as part of a **15-day internship program at [TatvaSoft](https://www.tatvasoft.com/)**.
 
-The **Virtual Community Support Platform** connects individuals in a virtual community to post help requests, offer support, participate in forums, and strengthen neighborhood connections.
+The **Virtual Community Support Platform** connects individuals in a virtual community to offer support, participate in missions, and strengthen neighborhood connections.
+
+## 🔑 Features
+
+### 👤 User Dashboard
+- 🧾 **Profile**: View and update personal information
+- 📌 **Missions**: 
+  - View available missions (help opportunities)
+  - Apply or show interest in community tasks
+- 📤 **Image Uploads**: Profile and mission-related images
+
+### 🛡️ Admin Dashboard
+- 👥 Manage users
+- 🗃 Manage Missions:
+  - Create,delete or update missions, mission themes, mission skills.
+  - Approve/reject user participation
+
+### 🎯 Missions Module
+- Missions are virtual or physical tasks posted for community support (e.g., tutoring, deliveries, event help).
+- Each mission contains:
+  - Title, Description
+  - Deadline
+  - Associated image or document
+- Users can express interest, and admins can assign or track participation.
+
 
 Built using **Angular**, **ASP.NET Core Web API**, and **PostgreSQL** to demonstrate proficiency in full-stack development, API integration, and database management.
