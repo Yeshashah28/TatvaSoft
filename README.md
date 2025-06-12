@@ -1,6 +1,5 @@
 # 🌐 Virtual Community Support Platform
 
-![License](https://img.shields.io/badge/license-MIT-green)  
 ![Angular](https://img.shields.io/badge/frontend-Angular-DD0031?logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/backend-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791?logo=postgresql&logoColor=white)
